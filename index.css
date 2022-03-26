@@ -1,0 +1,23 @@
+.navegador{
+    display: inline block;
+    justify-content: space-around;
+    text-align:center;
+    font-size: 35px;  
+    background-color: black;
+   
+    
+    
+}
+
+.imagen{
+    position: absolute;
+    top: 0px;
+    left: 3px;
+   
+
+}
+.segundaimagen{
+    position: absolute;
+    top: 0px;
+    right: 3px;
+}
